@@ -1,6 +1,5 @@
-# Spring Boot REST API
-Spring Boot application that provides REST API for managing groups, 
-teachers and ratings.
+# Teacher Groups REST API
+Spring Boot application that provides REST API for managing groups, teachers and ratings.
 This is my first Spring Boot project, written for Programming Window and Mobile Application classes.
 
 ## Endpoints
